@@ -1,0 +1,34 @@
+[h2]|HARDWARE|[/h2]
+[h3]CORE[/h3]
+[b]CPU |[/b] [url=https://www.amd.com/en/products/processors/desktops/ryzen/amd-ryzen-7-7700.html]AMD Ryzen 7 7700[/url]
+[b]∟[/b] 8 Core, 16 Thread
+[b]∟[/b] 3.8 GHz Base, 5.3 GHz Boost
+[b]GPU |[/b] [url=https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-7800-xt-16g-gddr6]Saphire Pulse AMD Radeon RX 7800 XT[/url]
+[b]RAM |[/b] 32 GB (2x 16 GB) DDR5-5200
+[h3]PERIPHERALS [/h3]
+[b]Display (Primary) |[/b] [url=https://www.lenovo.com/au/en/p/accessories-and-software/monitors/home/67ackac4au]Lenovo L27e-40[/url]
+[b]∟[/b] 27" 6ms 1920x1080@100Hz VA LCD
+[b]Display (Secondary) |[/b] BenQ RL2455HM
+[b]∟[/b] 24" 1ms 1920x1080@60Hz TN LCD
+[b]Mouse |[/b] [url=https://web.archive.org/web/20240120092233/https://www.razer.com/au-en/gaming-mice/razer-deathadder-v2]Razer Deathadder v2[/url]
+[b]∟[/b] 20k DPI Optical
+[b]Keyboard |[/b] [url=https://www.logitechg.com/en-au/products/gaming-keyboards/g512-mechanical-gaming-keyboard.html]Logitech G512 Carbon[/url]
+[b]∟[/b] GX Blue
+[b]Headset |[/b] [url=https://www.logitechg.com/en-au/products/gaming-audio/pro-x-gaming-headset-blue-voice-mic-tech.981-000820.html]Logitech G PRO X[/url]
+
+[h2]|SOFTWARE|[/h2]
+[b]KERNEL |[/b] Linux 6.8.2-arch2-1
+[b]GPU Driver |[/b] 4.6 Mesa 24.0.4-arch1.1
+[b]OS |[/b] Arch Linux x86_64
+[b]WM |[/b] kwin_wayland_wr
+[b]DE |[/b] KDE Plasma 6.0.3 [KF6 6.0.0-1, Qt 6.7.0rc-1] [KF5 5.115.0-3, Qt 5.15.13+kde+r142-1]
+
+[h2]|LINKS|[/h2]
+[b]ProtonDB |[/b] https://www.protondb.com/users/104056734
+[b]SteamGridDB |[/b] https://www.steamgriddb.com/profile/76561198119917078
+[b]Destronia |[/b] https://www.destronia.com/profile/JamesBLDZMB/
+[b]Internet Archive |[/b] https://archive.org/details/@bloodz0mbie
+[b]Spotify |[/b] https://open.spotify.com/user/37j32ql4uil84cxy4jcs1uhyt
+
+[hr][/hr]
+[i] Updated: 4th April 2024 @ 13:37 AWST [/i]
